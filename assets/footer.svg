@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 86" role="img" aria-labelledby="title">
+  <title id="title">Visit the SIMRAT.exe GitHub profile</title>
+  <rect x="1" y="1" width="1198" height="84" rx="17" fill="#0D0B1E" stroke="#B69CFF" stroke-opacity=".55"/>
+  <path d="M35 43h172m786 0h172" stroke="#B69CFF" stroke-opacity=".5"/>
+  <circle cx="207" cy="43" r="3" fill="#F0ABFC"/>
+  <circle cx="993" cy="43" r="3" fill="#F0ABFC"/>
+  <text x="600" y="51" text-anchor="middle" font-family="monospace" font-size="23" letter-spacing="2" fill="#F0ABFC">SIMRAT.exe / GITHUB</text>
+</svg>

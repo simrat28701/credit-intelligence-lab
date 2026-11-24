@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Credit Intelligence Lab</title>
+  <desc id="desc">SIMRAT.exe research portfolio. A lavender signal travels through a dark financial waveform.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0D0B1E"/>
+      <stop offset=".55" stop-color="#1E153A"/>
+      <stop offset="1" stop-color="#352050">
+        <animate attributeName="stop-color" values="#352050;#4D2B69;#352050" dur="12s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="signal">
+      <stop stop-color="#B69CFF" stop-opacity=".1"/>
+      <stop offset=".4" stop-color="#B69CFF"/>
+      <stop offset="1" stop-color="#F0ABFC"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#B69CFF" stroke-opacity=".10"/>
+    </pattern>
+    <path id="wave" d="M646 198H705L729 177 749 206 782 148 809 168 839 121 864 175 889 152 915 181 948 96 975 137 1002 118 1030 160 1059 126 1089 146 1119 104 1150 120"/>
+  </defs>
+  <rect width="1200" height="310" rx="24" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="308" rx="23" fill="url(#grid)" stroke="#B69CFF" stroke-opacity=".45"/>
+  <path d="M56 77H141" stroke="#F0ABFC" stroke-width="2"/>
+  <text x="56" y="63" font-family="monospace" font-size="19" letter-spacing="3" fill="#F0ABFC">SIMRAT.exe / RESEARCH PORTFOLIO</text>
+  <text x="52" y="154" font-family="system-ui, sans-serif" font-size="65" font-weight="750" letter-spacing="-2" fill="#F8F1FF">Credit Intelligence Lab</text>
+  <text x="56" y="199" font-family="system-ui, sans-serif" font-size="23" fill="#DED0F5">Default prediction &amp; account review policy</text>
+  <text x="56" y="261" font-family="monospace" font-size="16" letter-spacing="2" fill="#B69CFF">TAIWAN  /  2005 HISTORICAL COHORT</text>
+  <g transform="translate(275 118) scale(.75 .65)">
+    <use href="#wave" fill="none" stroke="#B69CFF" stroke-width="10" opacity=".12"/>
+    <use href="#wave" fill="none" stroke="url(#signal)" stroke-width="3" stroke-linejoin="round"/>
+    <circle r="5" fill="#F0ABFC">
+      <animateMotion dur="9s" repeatCount="indefinite" path="M646 198H705L729 177 749 206 782 148 809 168 839 121 864 175 889 152 915 181 948 96 975 137 1002 118 1030 160 1059 126 1089 146 1119 104 1150 120"/>
+    </circle>
+  </g>
+</svg>
