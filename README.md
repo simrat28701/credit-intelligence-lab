@@ -201,7 +201,7 @@ To run offline after dependency installation, save the official archive as `data
 **Simrat Khalsa · SIMRAT.exe**  
 MSc Economics and Data Science student. Connect through [GitHub @simrat28701](https://github.com/simrat28701).
 
-**AI-assisted development.** Simrat supplied the research question, review-policy framing and original exploration notebook. Codex assisted with implementation, reproducibility checks and documentation. The pipeline and dashboard checks reproduced the reported results from the UCI workbook. Reviewing those checks and explaining the economic interpretation and assumptions are part of the author’s project ownership.
+**AI-assisted development.** I wanted to explore the research question of how financial institutions would be able to balance financial risk, with the assistance of AI, I was able to create such an advanced dashboard so quickly. I plan to use these data findings to explore and attampt to answer my question.
 
 <p align="center">
   <a href="https://github.com/simrat28701"><img src="assets/footer.svg" width="100%" alt="Visit SIMRAT.exe on GitHub"></a>
